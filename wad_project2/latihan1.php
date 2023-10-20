@@ -5,6 +5,7 @@
     </head>
     <body>
     <form method="post" action="hasil.php">
+        <!-- untuk buat halaman hasilnya saya belum paham pak -->
         <label for="input1">Angka :</label>
         <input type="number" name="input1" id="input1" />
         <br/>
